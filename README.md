@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> real business problems are solved using Exploratory data analysis
+> Real business problems, solved using Exploratory data analysis
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -17,12 +17,16 @@
 
 ## Conclusions
 - Loan attributes leading to defaulting :
+- 
 -   Higher the interest higher the chance of defaulting
 -   Higher the loan amount chance of defaulting is higher
 -   Longer the tenure of loan higher chance of defaulting
 -   Lower the loan grade ( Assuming G is lower compared to A),defaulting increased
+-
+-
 
 - Applicant attributes leading to defaulting :
+- 
 -   Lower the annual income of applicant higher the chance of defaulting
 -   Applicant with reasons as ‘small business’ or ‘renewable energy’ tend to default loan
 -   Applicant with higher ‘dti’ tend to default loan
